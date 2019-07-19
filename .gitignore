@@ -1,0 +1,10 @@
+*.pyc
+__pycache__/
+*.mp3
+*.wav
+.vscode/
+*.db
+!sounds_db/*
+service/src/src/migrations/
+service/src/files/
+.idea/

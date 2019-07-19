@@ -1,0 +1,8 @@
+git+https://github.com/domenukk/enochecker.git
+Flask==1.0.2
+py-espeak-ng==0.1.8
+pydub==0.23.1
+cachetools==2.1.0
+
+
+
